@@ -1,12 +1,12 @@
 {
-  "name": "my-pj-name",
+  "name": "react-cookie-history",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.1.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react": "^16.11.0",
+    "react-cookie": "^4.0.1",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -28,6 +28,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://k8shiro.github.io/react-docker-base"
+  }
 }
